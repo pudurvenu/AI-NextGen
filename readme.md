@@ -1,5 +1,7 @@
 # 🛠️ AI-NextGen - Simple Tools for Creative Minds
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/pudurvenu-ai-nextgen)
+
 ## 🌟 Introduction
 Welcome to AI-NextGen, the user-friendly application that helps creators achieve clean results with a secure workflow. Enjoy simple controls and impressive outcomes. 
 
